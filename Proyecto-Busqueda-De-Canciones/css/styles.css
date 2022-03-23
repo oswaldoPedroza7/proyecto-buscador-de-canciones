@@ -1,0 +1,53 @@
+body {
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;               
+    color: white;
+}
+
+.error {
+    color: rgb(230,83, 82);
+}
+
+#resultado {
+    white-space: pre-wrap;
+    padding: 2 rem;
+}
+
+#formulario-buscar {
+    border-radius: 10px;
+    background: linear-gradient(315deg, #304356, #394f66);
+    box-shadow:  -26px -26px 25px #243241,
+                 26px 26px 25px #46627d;
+}
+
+/* #40403f */
+
+.input {
+    background-color: transparent;
+    margin-bottom: 25px;
+    padding: 0px 20px;
+    height: 20px;
+}
+
+.img-h1 {
+    width: 30px;
+    margin-right: 12px;
+}
+.busqueda {
+    width: 18px;
+    margin-left: 12px;
+}
+
+
+.img-artista {
+    width: 20px;
+    margin-right: 12px;
+}
+
+.img-cancion {
+    width: 20px;
+    margin-right: 12px;
+}
+
